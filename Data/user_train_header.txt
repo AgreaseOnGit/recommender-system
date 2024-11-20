@@ -1,0 +1,1 @@
+userid,ratingcount,ratingave,Pestisida & Obat Pertanian,Produk Pertanian Segar,Sarana dan Peralatan Irigasi,Produk Olahan Pertanian,Teknologi Pertanian	Perlengkapan Rumah Kaca dan Pembibitan,Bahan Pengemasan dan Logistik,Bibit dan Benih Tanaman,Pupuk dan Nutrisi Tanaman,Alat dan Mesin Pertanian

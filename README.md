@@ -13,8 +13,8 @@ This repository contains a **Content-Based Filtering Recommendation System**, de
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
-   cd repo-name
+   git clone https://github.com/AgreaseOnGit/recommender-system.git
+   cd recommender-system
 
 2. Install dependencies::
    ```bash
@@ -27,8 +27,9 @@ Open Updated_Recom_System.ipynb in Jupyter Notebook or VSCode and execute step b
 
 ## Folder Structure
 ```bash
-   repo-name/
-    ├── data/                  # Dataset folder
-    ├── Updated_Recom_System.ipynb  # Jupyter Notebook
-    ├── requirements.txt       # Dependencies
+   recommendation-system/
+    ├── Data/                        # Dataset folder
+    ├── Model/                       # Jupyter Notebook
+    ├── Recom System.ipynb   # Jupyter Notebook
+    ├── requirements.txt             # Dependencies
     └── README.md              # Project documentation

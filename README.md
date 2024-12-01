@@ -29,7 +29,7 @@ Open Updated_Recom_System.ipynb in Jupyter Notebook or VSCode and execute step b
 ```bash
    recommendation-system/
     ├── Data/                        # Dataset folder
-    ├── Model/                       # Jupyter Notebook
+    ├── Model/                       # Model and Scaler Folder
     ├── Recom System.ipynb           # Jupyter Notebook
     ├── requirements.txt             # Dependencies
     └── README.md                    # Project documentation
